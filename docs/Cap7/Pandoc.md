@@ -4,13 +4,13 @@ Pandoc es un conversor de documentos libre y de código abierto, mayormente usad
 
 ## Instalación en Windows 10
 
-Para instalar Pandoc debemos dirigirnos a la [página de Pandoc][http://pandoc.org/]
+Para instalar Pandoc debemos dirigirnos a la [página de Pandoc](http://pandoc.org/)
 
 ![Página principal de Pandoc](captura-pandoc.PNG)
 
 
 
-Una vez accedamos a la página de Pandoc debemos dirigirnos a [Installing][http://pandoc.org/installing.html] 
+Una vez accedamos a la página de Pandoc debemos dirigirnos a [Installing](http://pandoc.org/installing.html)
 
 
 
@@ -18,7 +18,7 @@ Una vez accedamos a la página de Pandoc debemos dirigirnos a [Installing][http:
 
 
 
-y una vez que nos encontremos en esta ventana debemos acceder a la sección para windows y acceder al [download page][https://github.com/jgm/pandoc/releases/tag/1.19.2.1] lo que nos redirigirá a un repositorio en github desde el cual podremos descargarnos el installador de windows.
+y una vez que nos encontremos en esta ventana debemos acceder a la sección para windows y acceder al [download page](https://github.com/jgm/pandoc/releases/tag/1.19.2.1) lo que nos redirigirá a un repositorio en github desde el cual podremos descargarnos el installador de windows.
 
 
 
@@ -30,7 +30,7 @@ En el repositorio de pandoc seleccionaremos el instalador para windoes en nuestr
 
 Al abrir este instalador nos saldrá una ventana como la siguiente:
 
-![Instalador Pandoc](installing-pandoc.PNG)
+![Instalador Pandoc](instalador-pandoc.PNG)
 
 Dónde debemos aceptar los términos del contrato de licencia y decidir si queremos instalar Pandoc para todos los usuarios del ordenador. Una vez hecho esto le damos a Install y empezará el proceso de instalación de pandoc. 
 
