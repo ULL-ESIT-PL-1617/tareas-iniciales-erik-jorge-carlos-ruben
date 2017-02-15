@@ -96,7 +96,7 @@ Añadimos el siguiente script al *package.json*:
 }
 ```
 
-Docs: prepare will set-up gitbook (como dependencias, plugins, etc.) y * docs: watch * iniciará un servidor mostrando el libro.
+Docs: instala las dependencias de gitbook (como dependencias, plugins, etc.) y * docs: watch * iniciará un servidor mostrando el libro.
 
 Ahora, ejecute la tarea de vigilancia:
 
