@@ -6,7 +6,7 @@ Pandoc es un conversor de documentos libre y de código abierto, mayormente usad
 
 Para instalar Pandoc debemos dirigirnos a la [página de Pandoc][http://pandoc.org/]
 
-![Página principal de Pandoc](captura-pandoc.png)
+![Página principal de Pandoc](captura-pandoc.PNG)
 
 
 
@@ -14,7 +14,7 @@ Una vez accedamos a la página de Pandoc debemos dirigirnos a [Installing][http:
 
 
 
-![Installing](installing-pandoc.png)
+![Installing](installing-pandoc.PNG)
 
 
 
@@ -22,7 +22,7 @@ y una vez que nos encontremos en esta ventana debemos acceder a la sección para
 
 
 
-![Github de Pandoc](github-pandoc.png)
+![Github de Pandoc](github-pandoc.PNG)
 
 
 
@@ -30,13 +30,13 @@ En el repositorio de pandoc seleccionaremos el instalador para windoes en nuestr
 
 Al abrir este instalador nos saldrá una ventana como la siguiente:
 
-![Instalador Pandoc](instalador-pandoc.png)
+![Instalador Pandoc](installing-pandoc.PNG)
 
 Dónde debemos aceptar los términos del contrato de licencia y decidir si queremos instalar Pandoc para todos los usuarios del ordenador. Una vez hecho esto le damos a Install y empezará el proceso de instalación de pandoc. 
 
 Para comprobar si pandoc se ha instalado correctamente debemos acceder a la terminal de windows (Símbolo del sistema) y ejecutar el comando **pandoc -v** para ver la versión de pandoc instalada y debería salirnos un resultado similar a este 
 
-![pandoc -v](pandoc-v.png)
+![pandoc -v](pandoc-v.PNG)
 
 
 
